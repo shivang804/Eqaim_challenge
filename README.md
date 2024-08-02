@@ -1,19 +1,19 @@
 **Setup**
 
 Open terminal and go to root directory
->> Run "npm install".(This will take some time)
+> Run "npm install".(This will take some time)
 
 **Start the Server >>**
 
 Open another terminal 
->> Go to root directory
->> >> Run "node server.js"
+> Go to root directory
+>> Run "node server.js"
 
 **Start the Client**
 
 Open another terminal
->> Go to root directory
->> >> Run "npm start"
+> Go to root directory
+>> Run "npm start"
 
 Now the app should be up on localhost:3000.
 If not, go to browser and type localhost:3000 and enter.
