@@ -21,3 +21,8 @@ If not, go to browser and type localhost:3000 and enter.
 You should see the app running as shown below >>
 
 <img width="959" alt="Screenshot 2024-08-02 181856" src="https://github.com/user-attachments/assets/ac5d532e-c095-423a-879f-5873b467a2fb">
+
+After uploading an excel sheet, the sheet will appear on screen something like this
+
+<img width="959" alt="Screenshot 2024-08-02 182950" src="https://github.com/user-attachments/assets/b4795be2-f44d-4a94-9f48-191da68a821a">
+
